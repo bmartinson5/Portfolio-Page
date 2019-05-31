@@ -4,6 +4,10 @@ h2 {
   margin-right: 30px;
 }
 
+.active-link {
+  text-decoration: underline;
+}
+
 .container-fluid {
   padding: 0px;
 }
