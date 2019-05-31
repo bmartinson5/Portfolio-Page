@@ -28,8 +28,17 @@ h2 {
 .navbar{
     color: #FFFFFF;
     background-color: #7fd3f7;
+    text-align: right;
 }
 
-.contain-border {
-  border: 1px solid black;
+.contain-border-right {
+  border-right: 2px solid black;
+}
+
+.contain-border-bottom {
+  border-bottom: 2px solid black;
+}
+
+.row {
+  margin-bottom: 0px;
 }
