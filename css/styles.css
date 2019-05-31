@@ -11,7 +11,6 @@ h2 {
 .sideBar {
   background-color: #84f2b3;
   height: 100%;
-  width: 140px;
 }
 
 .sideBar a {
@@ -37,6 +36,29 @@ h2 {
 
 .contain-border-bottom {
   border-bottom: 2px solid black;
+}
+
+.b-pic {
+  background: url(../img/portland.jpg) no-repeat;
+  float: left;
+  margin-right: -15px;
+    margin-left: -15px;
+    padding-bottom: 62.5%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.no-r-marg {
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+.no-l-marg {
+  margin-left: 0px;
+  padding-left: 0px;
+
 }
 
 .row {
