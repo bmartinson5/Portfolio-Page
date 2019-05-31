@@ -9,7 +9,7 @@ h2 {
 }
 
 .sideBar {
-  background-color: 8de3e8;
+  background-color: #84f2b3;
   height: 100%;
   width: 140px;
 }
@@ -18,4 +18,18 @@ h2 {
   font-size: 20px;
   display: block;
   padding: 20px;
+  text-decoration: none;
+}
+
+.sideBar a:hover {
+  color: #f1f1f1;
+}
+
+.navbar{
+    color: #FFFFFF;
+    background-color: #7fd3f7;
+}
+
+.contain-border {
+  border: 1px solid black;
 }
