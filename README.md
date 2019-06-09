@@ -7,6 +7,8 @@ background.
 ## Setup
 Clone this repository, and open the html file in a web browser.
 
+GH-Pages: bmartinson5.github.io/Portfolio-Page/
+
 ## Technologies Used
 html, css, git and bootstrap
 
